@@ -52,18 +52,12 @@ Procedural Oriented Programming (POP)	Object Oriented Programming (OOP)
 
 -> It does not use access modifiers.	Makes use of access modifiers like public, private and protected.
 
-
 Advantages of Object Oriented Programming:
 
-
 Reusability
-
 Data Redundancy
-
 Code Maintainance
-
 Flexibility
-
 Security
 
 This is why C++ is preffered over C as OOP is very advantageous.

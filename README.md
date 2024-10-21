@@ -4,7 +4,6 @@ To study and implement Classes and Objects
 
 # Theory:
 Object Oriented Programming (OOP):
-
 Object-oriented programming is based on the concept of objects. In object-oriented programming data structures, or objects are defined, each with its own properties or attributes.
 To understand OOP better, let us understand some key concepts of OOPS
 
@@ -54,11 +53,17 @@ Procedural Oriented Programming (POP)	Object Oriented Programming (OOP)
 
 Advantages of Object Oriented Programming:
 
+
 Reusability
+
 Data Redundancy
+
 Code Maintainance
+
 Flexibility
+
 Security
+
 
 This is why C++ is preffered over C as OOP is very advantageous.
 

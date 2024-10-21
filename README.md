@@ -54,15 +54,15 @@ Procedural Oriented Programming (POP)	Object Oriented Programming (OOP)
 Advantages of Object Oriented Programming:
 
 
-Reusability
+-> Reusability
 
-Data Redundancy
+-> Data Redundancy
 
-Code Maintainance
+-> Code Maintainance
 
-Flexibility
+-> Flexibility
 
-Security
+-> Security
 
 
 This is why C++ is preffered over C as OOP is very advantageous.
